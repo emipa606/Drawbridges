@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1265769061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f8837061d699c999f80d0fb50142b1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2f8837061d699c999f80d0fb50142b1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/2x6_ground_south.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/5x6_overlay_south.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/2x6_south.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/5x6_ground_south.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/5x6_overlay_east.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/2x6_ground_east.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/2x6_overlay_east.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/3x6_overlay_south.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/5x6_east.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/5x6_Menu.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/2x6_Menu.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/3x6_ground_south.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/Lower.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/5x6_south.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/2x6_east.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/3x6_ground_east.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/3x6_south.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/Raise.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/2x6_overlay_south.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/3x6_overlay_east.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/3x6_Menu.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/3x6_east.png
+- Assets/Data/Mlie.Drawbridges/Textures/Drawbridges/5x6_ground_east.png
+Dependencies: []
