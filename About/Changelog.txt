@@ -1,5 +1,8 @@
 # Changelog for Drawbridges
 
+1.6.1 - Removed flammability, the bridges are steel after all
+
+
 1.6.0 - First publish
 Used DeepL to update translations for ChineseSimplified, French, German
 

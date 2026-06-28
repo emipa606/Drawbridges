@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: drawbridge (5x6) -->
+  <DrawbridgeBig.label>drawbridge (5x6)</DrawbridgeBig.label>
+  <!-- EN: A mechanical drawbridge that spans 5x6 tiles. Constructed for both defense and accessibility, this drawbridge can be raised or lowered to control passage over obstacles such as moats. Ideal for strategic fortification, it serves as a reliable barrier against intruders when raised and allows effortless traversal when lowered. -->
+  <DrawbridgeBig.description>A mechanical drawbridge that spans 5x6 tiles. Constructed for both defense and accessibility, this drawbridge can be raised or lowered to control passage over obstacles such as moats. Ideal for strategic fortification, it serves as a reliable barrier against intruders when raised and allows effortless traversal when lowered.</DrawbridgeBig.description>
+  <!-- EN: drawbridge (5x6) -->
+  <DrawbridgeBigRaised.label>drawbridge (5x6)</DrawbridgeBigRaised.label>
+  <!-- EN: A mechanical drawbridge that spans 5x6 tiles. Constructed for both defense and accessibility, this drawbridge can be raised or lowered to control passage over obstacles such as moats. Ideal for strategic fortification, it serves as a reliable barrier against intruders when raised and allows effortless traversal when lowered. -->
+  <DrawbridgeBigRaised.description>A mechanical drawbridge that spans 5x6 tiles. Constructed for both defense and accessibility, this drawbridge can be raised or lowered to control passage over obstacles such as moats. Ideal for strategic fortification, it serves as a reliable barrier against intruders when raised and allows effortless traversal when lowered.</DrawbridgeBigRaised.description>
+  <!-- EN: drawbridge (3x6) -->
+  <DrawbridgeMedium.label>drawbridge (3x6)</DrawbridgeMedium.label>
+  <!-- EN: A drawbridge spanning 3x6 tiles. Allows controlled access across moats or gaps. Can be raised to fortify defenses or lowered to allow passage. -->
+  <DrawbridgeMedium.description>A drawbridge spanning 3x6 tiles. Allows controlled access across moats or gaps. Can be raised to fortify defenses or lowered to allow passage.</DrawbridgeMedium.description>
+  <!-- EN: drawbridge (3x6) -->
+  <DrawbridgeMediumRaised.label>drawbridge (3x6)</DrawbridgeMediumRaised.label>
+  <!-- EN: A drawbridge spanning 3x6 tiles. Allows controlled access across moats or gaps. Can be raised to fortify defenses or lowered to allow passage. -->
+  <DrawbridgeMediumRaised.description>A drawbridge spanning 3x6 tiles. Allows controlled access across moats or gaps. Can be raised to fortify defenses or lowered to allow passage.</DrawbridgeMediumRaised.description>
+  <!-- EN: drawbridge (2x6) -->
+  <DrawbridgeSmall.label>drawbridge (2x6)</DrawbridgeSmall.label>
+  <!-- EN: A durable drawbridge that covers a 2x6 area and can be raised or lowered to control access across a gap or moat. Made from sturdy materials, it provides defense by preventing or allowing passage when needed. Ideal for fortifying settlements while maintaining controlled entry points. -->
+  <DrawbridgeSmall.description>A durable drawbridge that covers a 2x6 area and can be raised or lowered to control access across a gap or moat. Made from sturdy materials, it provides defense by preventing or allowing passage when needed. Ideal for fortifying settlements while maintaining controlled entry points.</DrawbridgeSmall.description>
+  <!-- EN: drawbridge (2x6) -->
+  <DrawbridgeSmallRaised.label>drawbridge (2x6)</DrawbridgeSmallRaised.label>
+  <!-- EN: A durable drawbridge that covers a 2x6 area and can be raised or lowered to control access across a gap or moat. Made from sturdy materials, it provides defense by preventing or allowing passage when needed. Ideal for fortifying settlements while maintaining controlled entry points. -->
+  <DrawbridgeSmallRaised.description>A durable drawbridge that covers a 2x6 area and can be raised or lowered to control access across a gap or moat. Made from sturdy materials, it provides defense by preventing or allowing passage when needed. Ideal for fortifying settlements while maintaining controlled entry points.</DrawbridgeSmallRaised.description>
+</LanguageData>
