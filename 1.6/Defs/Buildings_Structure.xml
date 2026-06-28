@@ -34,7 +34,7 @@
     <statBases>
       <WorkToBuild>4000</WorkToBuild>
       <MaxHitPoints>640</MaxHitPoints>
-      <Flammability>1</Flammability>
+      <Flammability>0</Flammability>
     </statBases>
     <size>(2, 6)</size>
     <graphicData>
@@ -69,7 +69,7 @@
     <statBases>
       <WorkToBuild>5000</WorkToBuild>
       <MaxHitPoints>800</MaxHitPoints>
-      <Flammability>1</Flammability>
+      <Flammability>0</Flammability>
     </statBases>
     <size>(3, 6)</size>
     <graphicData>
@@ -104,7 +104,7 @@
     <statBases>
       <WorkToBuild>6000</WorkToBuild>
       <MaxHitPoints>1000</MaxHitPoints>
-      <Flammability>1</Flammability>
+      <Flammability>0</Flammability>
     </statBases>
     <size>(5, 6)</size>
     <graphicData>
